@@ -12,7 +12,7 @@ body {
 body header {
   width: 1920px;
   height: 880px;
-  background-image: url(../images/cuba-1197800_1920.jpg);
+  background-image: url(https://github.com/tsubasadesu/car/blob/main/cuba-1197800_1920.jpg?raw=true);
   background-size: cover;
   background-position: center bottom;
 }
@@ -56,7 +56,7 @@ body header .header-image {
 body .main {
   width: 1920px;
   height: 1240px;
-  background-image: url(../images/car3.jpg);
+  background-image: url(https://github.com/tsubasadesu/car/blob/main/car3.jpg?raw=true);
   background-size: cover;
   background-position: center bottom;
 }
@@ -70,7 +70,7 @@ body .main .main-area {
 body .main .main-area .main-top {
   width: 1920px;
   height: 690px;
-  background-image: url(../images/amg-1880381_1920.jpg);
+  background-image: url(https://github.com/tsubasadesu/car/blob/main/amg-1880381_1920.jpg?raw=true);
   background-size: cover;
   background-position: center bottom;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
